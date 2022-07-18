@@ -29,7 +29,7 @@
     "request": "^2.88.2",
     "twilio": "^3.79.0",
     "uuid": "^8.3.2",
-    "ws": "^8.8.0"
+    "ws": "^8.8.1"
   },
   "devDependencies": {
     "eslint": "^8.19.0"
