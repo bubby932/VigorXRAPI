@@ -20,7 +20,7 @@
     "express-fileupload": "^1.2.1",
     "express-rate-limit": "^6.0.5",
     "express-slow-down": "^1.4.0",
-    "firebase": "^9.9.0",
+    "firebase": "^9.9.1",
     "firebase-admin": "^11.0.0",
     "fuse.js": "^6.5.3",
     "jsonwebtoken": "^8.5.1",
